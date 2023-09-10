@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\bin\Debug\net6.0-windows\calculadoraaaaaa.exe
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\bin\Debug\net6.0-windows\calculadoraaaaaa.deps.json
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\bin\Debug\net6.0-windows\calculadoraaaaaa.runtimeconfig.json
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\bin\Debug\net6.0-windows\calculadoraaaaaa.dll
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\bin\Debug\net6.0-windows\calculadoraaaaaa.pdb
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.dll
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\refint\calculadoraaaaaa.dll
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.pdb
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\ref\calculadoraaaaaa.dll
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.Calculadora.resources
+C:\Users\PC\Desktop\Programación ll\calculadoraaaaaa\calculadoraaaaaa\obj\Debug\net6.0-windows\calculadoraaaaaa.Properties.Resources.resources
